@@ -12,7 +12,7 @@
 -->
 
 <p>
-  I'm Vipin Yadav, a Computer Science graduate passionate about software engineering. Here, you'll find projects that showcase my skills in software engineering and development.
+  I'm Vipin Yadav, a Software Engineer with hands-on experience in Java and Spring Boot backend development, building REST APIs and working with microservices, databases, and enterprise applications. Experienced in debugging production issues, implementing backend features, and following SDLC practices in Agile environments.
 </p>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio_Website-24292e?style=flat-square&logo=githubpages&logoColor=white)](https://vipinyadav.vercel.app)
